@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'mfp/packages/container/**'
+      - 'micro-frontends/mfp/packages/container/**'
 
 defaults:
   run:
